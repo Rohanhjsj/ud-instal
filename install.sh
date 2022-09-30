@@ -1,1 +1,25 @@
-apt-get install wget -y apt-get install wget -y apt-get install proot -y apt-get install git -y git clone https://github.com/MFDGaming/ubuntu-in-termux.git cd ubuntu-in-termux chmod +x ubuntu.sh ./ubuntu.sh -y ./startubuntu.sh
+ pip install email
+
+pip install logging
+
+pip install pexpect
+
+pip install pycrypto
+
+pip install PyInstaller  
+
+pip install python-dateutil
+
+pip install python-xlib
+
+pip install pyudev
+
+pip install pyxattr
+
+pip install PIL
+
+pip install pyreadline
+
+pip install readline
+
+pip install requests
